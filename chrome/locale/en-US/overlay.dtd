@@ -1,0 +1,8 @@
+<!ENTITY FireYQL.label "Your localized menuitem">
+<!ENTITY FireYQLContext.label "Your Menuitem">
+<!ENTITY FireYQLContext.accesskey "Y">
+<!ENTITY FireYQLToolbarButton.label "Your Toolbar Button">
+<!ENTITY FireYQLToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY FireYQLSidebar.label "Your Sidebar">
+<!ENTITY FireYQLToolbar.name  "example">
+<!ENTITY FireYQLToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &FireYQLToolbar.name;">

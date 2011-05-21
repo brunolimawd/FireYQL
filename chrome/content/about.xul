@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<!DOCTYPE dialog SYSTEM "chrome://FireYQL/locale/about.dtd">
+
+<dialog title="&about; FireYQL" orient="vertical" autostretch="always" onload="sizeToContent()" buttons="accept" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <groupbox align="center" orient="horizontal">
+    <vbox>
+      <text value="FireYQL" style="font-weight: bold; font-size: x-large;"/>
+      <text value="&version; 1.0"/>
+      <separator class="thin"/>
+      <text value="&createdBy;" style="font-weight: bold;"/>
+      <text value="Bruno Lima"/>
+      <separator class="thin"/>
+    </vbox>
+  </groupbox>
+</dialog>
